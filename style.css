@@ -12,6 +12,10 @@ text-transform: uppercase;
   font-weight: bold;
   font-size: 22px;
   text-decoration: none;
+  nav {
+  position:absolute;
+  top : 0;
+  right: 0;
 }
 
 nav li {
